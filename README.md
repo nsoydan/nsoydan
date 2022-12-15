@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nsoydan. I am electronics engineer. Nowadays I am improving my skills on programming with new technologies    
-- 👀 I’m interested in developing web-based software
-- 🌱 I’m currently learning react.js 
-- 💞️ I’m looking to collaborate on web-based technologies like react.js,vue.js 
+- 👋 Hi, I’m @nsoydan. I am electronics engineer. Nowadays I am trying to improve my skills on programming with new technologies    
+- 👀 I’m interested in developing web-based App
+- 🌱 I’m currently learning React.js, TailwindCss, GraphQL, Express.js, Jest for Unit Test 
+- 💞️ I’m looking to collaborate on React.js 
 
 
 <!---
